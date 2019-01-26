@@ -69,6 +69,8 @@ public class Test {
             e.printStackTrace();
         }finally{
             System.out.println("数据库数据成功获取！！");
+            System.out.println("提交代码");
+            System.out.println();
         }
 	}
 
